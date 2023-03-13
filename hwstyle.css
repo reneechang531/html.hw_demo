@@ -1,0 +1,38 @@
+header h1{
+	width: 280px;
+}
+header h1 a{
+	display: inline-block;	
+	background-image: url(./icon.png);
+	background-size: contain;
+	background-repeat: no-repeat;
+	width: 320px;
+    height: 35px;	
+	margin:10px 0;
+	color: transparent;
+}
+h1,h2{
+    text-align: center;
+}
+table{
+    width:100%;
+    height: 100% ;
+    margin-left:auto; 
+    margin-right:auto;
+    border: 10px  groove;
+}
+th,td{
+    border: 10px  groove;
+    text-align: center;
+}
+.ifr{
+    text-align: center;
+}
+iframe{
+    
+    padding: auto ;
+    padding-top: 10px;
+}
+.docs{
+    text-align: center;
+}
